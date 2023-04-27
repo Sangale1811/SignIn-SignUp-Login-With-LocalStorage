@@ -12,7 +12,7 @@ This is simple project for signin and signup using React Js. I am using localsto
 
 -After cloning the project go to Project directory using
 
-    `- $ cd project-name`
+-    ` $ cd project-name`
     
 - After that install required dependencies using
 
