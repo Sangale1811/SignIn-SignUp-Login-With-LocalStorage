@@ -1,4 +1,4 @@
-# SignIn-SignUp with LocalStorage in React
+# React SignIn-SignUp with localstorage
 
 This is simple project for signin and signup using React Js. I am using localstorage to store data.
 
