@@ -6,9 +6,7 @@ This is simple project for signin and signup using React Js. I am using localsto
 
 To install the application,follow these steps :
 
-- clone the repository :
-
-`git clone https://github.com/Sangale1811/SignIn-SignUp-With-LocalStorage.git`
+- clone the repository : `git clone https://github.com/Sangale1811/SignIn-SignUp-With-LocalStorage.git`
 
 After cloning the project go to Project directory using
 
@@ -23,5 +21,9 @@ After cloning the project go to Project directory using
 Use below command to start development server
 
 -    `$ npm start`
+
+## Technologies Used :
+
+- React Js
 
 
