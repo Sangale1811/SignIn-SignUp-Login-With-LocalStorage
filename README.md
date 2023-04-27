@@ -4,7 +4,7 @@ This is simple project for signin and signup using React Js. I am using localsto
 
 ## Installation
 
-To install the application,follow these steps :
+To install the application, follow these steps :
 
 - clone the repository :
 
